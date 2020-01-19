@@ -1,3 +1,4 @@
+#Install pygame before running this game
 import pygame
 import time
 import random
